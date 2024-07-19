@@ -1,3 +1,5 @@
+#https://chatgpt.com/share/b523e210-fd02-4fb4-b2c2-07da43129d00
+
 library(dplyr)
 
 df <- read.csv('C:/Users/user/Documents/HAP/Housing.csv')
